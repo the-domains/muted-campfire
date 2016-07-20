@@ -1,0 +1,14 @@
+layout_spectrum: 0.997096064966172
+typography_spectrum: 0.6449007843621075
+color:
+  brandStrength: 0.7755337883718312
+  lightness: 0.9464324205182493
+  saturation: 0.2811901450622827
+  rhythmicContrast: 0.09742213133722544
+  brandColors:
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+name: muted campfire
